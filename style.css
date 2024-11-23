@@ -1,0 +1,482 @@
+body{
+    background-color: khaki;
+    mix-blend-mode: multiply;
+}
+nav{
+    background-color: rgb(1, 1, 65);
+    width: 100%;
+    height: 80px;
+    display: flex;
+}
+.Tittle{
+    font-size: 30px;
+    color: white;
+    margin-top: 20px;
+    cursor: pointer;
+    margin-left: 20px;
+}
+.body2{
+    background-color: blue;
+    margin-top: -50px;
+    color: white;
+}
+.Tittle-div{
+    display: flex;
+}
+.register{
+    background-color: transparent;
+    color: white;
+    border: none;
+    margin-left: 100px;
+    font-size: 20px;
+}
+.see-box{
+    width: 800px;
+    height: 150px;
+    display: flex;
+    border: 1px solid black;
+    margin-left: 200px;
+    margin-top: 20px;
+    background-color: green;
+}
+#inp{
+    height: 50px;
+    width: 250px;
+}
+.search-button{
+    height: 56px;
+    width: 80px;
+}
+.cart{
+    color: white;
+    background-color: transparent;
+    border: none;
+    margin-left: 100px;
+    font-size: 20px;
+}
+.contact{
+    color: white;
+    float: right;
+    background-color: transparent;
+    border: none;
+    font-size: 20px;
+    margin-left: 20px;
+
+}
+#Cookies{
+    font-size: 30px;
+    margin-top: 50px;
+}
+#header{
+    margin-left: 500px;
+}
+#privacy{
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 550px;
+    color: red;
+}
+#Accept-cook{
+    margin-left: 550px;
+    background-color: khaki;
+    width: 200px;
+    height: 50px;
+    border: none;
+    border-radius: 20px;
+}
+#search-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 250px;
+}
+.phone{
+    width: 350px;
+    height: 300px;
+    margin-top: 20px;
+}
+.Welcome{
+    margin-top: 100px;
+    margin-left: 100px;
+    font-size: 50px;
+    font-weight: bold;
+}
+#gif{
+    display: flex;
+}
+.Purchase{
+    font-size: 30px;
+    margin-left: 500px;
+    margin-top: 20px;
+    color: white;
+}
+.purch-nav{
+    width: 100%;
+    background-color: blue;
+    height: 70px;
+    display: flex;
+    margin-top: 20px;
+}
+.phone-img{
+    margin-top: 30px;
+}
+.pp{
+    width: 250px;
+    height: 250px;
+}
+.bb{
+    width: 300px;
+    height: 200px;
+}
+#firstGB{
+    margin-left: 40px;
+    font-weight: bold;
+}
+#secondGB{
+    margin-left: 60px;
+    font-weight: bold;
+}
+#thirdGB{
+    margin-left: 30px;
+    font-weight: bold;
+}
+.browser-img{
+    width: 200px;
+    height: 70px;
+    mix-blend-mode: multiply;
+    margin-top: 300px;
+    display: flex;
+    margin-left: -700px;
+}
+#btn-purchase{
+    width: 80px;
+    height: 50px;
+    background-color: blue;
+    border: none;
+    border-radius: 30px;
+    margin-left: 5px;
+    color: white;
+}
+.blue-infinix{
+    display: none;
+}
+#btn-purchase:hover{
+    background-color: black;
+    color: white;
+}
+#btn-purchase:active{
+    background-color: rgb(76, 76, 170);
+}
+.ff{
+    width: 200px;
+    height: 250px;
+}
+#nv-itel{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    background-color: green;
+    margin-top: 20px;
+}
+#btn-sec{
+    background-color: green;
+    color: white;
+    width: 80px;
+    height: 50px;
+    border: none;
+    border-radius: 30px;
+    margin-left: 5px;
+}
+#btn-sec:hover{
+    background-color: black;
+    color: white;
+}
+#btn-sec:active{
+    background-color: rgb(121, 204, 121);
+}
+#nv-ip{
+    background-color: red;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    margin-top: 20px;
+}
+.gg{
+    width: 230px;
+    height: 300px;
+    margin-left: 10px;
+}
+#btn-red{
+    background-color: red;
+    color: white;
+    width: 80px;
+    height: 50px;
+    border: none;
+    border-radius: 30px;
+    margin-left: 5px;
+}
+#btn-red:hover{
+    background-color: black;
+    color: white;
+}
+#btn-red:active{
+    background-color: rgb(204, 91, 91);
+}
+#nv-sam{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    margin-top: 20px;
+    background-color: black;
+}
+#btn-black{
+    background-color: black;
+    color: white;
+    width: 80px;
+    height: 50px;
+    border: none;
+    border-radius: 30px;
+    margin-left: 5px;
+}
+.ll{
+    width: 310px;
+    height: 270px;
+}
+#btn-black:hover{
+    background-color: black;
+    color: white;
+}
+#btn-black:active{
+    background-color: red;
+}
+#nv-tec{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    margin-top: 20px;
+    background-color: teal;
+}
+#btn-tec{
+    background-color: teal;
+    color: white;
+    width: 80px;
+    height: 50px;
+    border: none;
+    border-radius: 30px;
+    margin-left: 5px;
+}
+#btn-tec:hover{
+    background-color: black;
+    color: white;
+}
+#btn-tec:active{
+    background-color: yellow;
+}
+.text-phone{
+    font-size: 30px;
+    font-weight: bolder;
+    display: none;
+}
+footer{
+    width: 1330px;
+    height: 400px;
+    display: flex;
+    border-radius: 20px;
+    background-color: rgb(94, 89, 89);
+    border: 3px solid black;
+    
+}
+.foot{
+    display: flex;
+}
+.footer-image{
+    width: 350px;
+    height: 300px;
+    mix-blend-mode: multiply;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.thanks{
+    font-size: 30px;
+    color: white;
+    
+}
+.tanks{
+    margin-top: -300px;
+    margin-left: 350px;
+}
+#thanks-Jquery{
+    display: none;
+}
+@media (max-width: 500px) {
+    body{ 
+        background-color: khaki;
+        mix-blend-mode: multiply;
+    }
+    nav{
+        background-color: rgb(1, 1, 65);
+        width: 100%;
+        height: 80px;
+        display: flex;
+    }
+    .Tittle{
+        font-size: 20px;
+        color: white;
+        margin-top: 20px;
+        cursor: pointer;
+        margin-left: 20px;
+    }
+    #search-box{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        display: block;
+        display: none;
+    }
+    .body2{
+        background-color: blue;
+        color: white;
+    }
+    #Cookies{
+        font-size: 20px;
+        margin-top: 50px;
+    }
+    #header{
+        margin-left: 120px;
+    }
+    #privacy{
+        font-size: 20px;
+        text-decoration: none;
+        margin-left: 120px;
+    }
+    #Accept-cook{
+        margin-left: 140px;
+        background-color: yellow;
+        width: 150px;
+        height: 40px;
+        border: none;
+        color: blue;
+    }
+    #gif{
+        display: flex;
+    }
+    .phone{
+        width: 450px;
+        height: 300px;
+        margin-top: 10px;
+    }
+    .Welcome{
+        font-size: 20px;
+        font-weight: bold;
+        display: none;
+    }
+    #firstGB{
+        margin-left: 40px;
+        font-weight: bold;
+        display: none;
+    }
+    #btn-1purchase{
+        width: 80px;
+        height: 50px;
+        background-color: blue;
+        border: none;
+        border-radius: 30px;
+        margin-left: 5px;
+        color: white;
+    }
+    #btn-2purchase{
+        width: 80px;
+        height: 50px;
+        background-color: green;
+        border: none;
+        border-radius: 30px;
+        margin-left: 5px;
+        color: white;
+    }
+    #btn-3purchase{
+        width: 80px;
+        height: 50px;
+        background-color: red;
+        border: none;
+        border-radius: 30px;
+        margin-left: 5px;
+        color: white;
+    }
+    #btn-4purchase{
+        width: 80px;
+        height: 50px;
+        background-color: black;
+        border: none;
+        border-radius: 30px;
+        margin-left: 5px;
+        color: white;
+    }
+    #btn-5purchase{
+        width: 80px;
+        height: 50px;
+        background-color: teal;
+        border: none;
+        border-radius: 30px;
+        margin-left: 5px;
+        color: white;
+    }
+    .blue-infinix{
+        display: block;
+        margin-left: 20px;
+    }
+    .image-infinix{
+        margin-left: 100px;
+    }
+    #thirdGB{
+        margin-left: 30px;
+        font-weight: bold;
+        display: none;
+    }
+    .Purchase{
+        font-size: 20px;
+        margin-left: 100px;
+        margin-top: 10px;
+        color: white;
+    }
+    footer{
+        width: 1330px;
+        height: 400px;
+        display: flex;
+        border-radius: 20px;
+        background-color: rgb(94, 89, 89);
+        border: 3px solid black;
+        display: none;
+        
+    }
+    .foot{
+        display: flex;
+    }
+    .footer-image{
+        width: 200px;
+        height: 150px;
+        mix-blend-mode: multiply;
+        margin-top: 50px;
+        margin-left: 50px;
+        display: block;
+    }
+    #btn-sec{
+        background-color: green;
+        color: white;
+        width: 80px;
+        height: 50px;
+        border: none;
+        border-radius: 30px;
+        margin-left: 5px;
+        display: block;
+    }
+    .text-phone{
+        font-size: 16px;
+        font-weight: bolder;
+        display: block;
+        color: black;
+
+    }
+
+}
+
+

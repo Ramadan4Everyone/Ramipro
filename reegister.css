@@ -1,0 +1,122 @@
+body{
+    background-color: khaki;
+}
+.parent{
+    width: 350px;
+    height: 600px;
+    background-color: whitesmoke;
+    border-radius: 30px;
+    border: 2px solid black;
+    display: flex;
+    margin-top: 30px;
+    margin-top: -350px;
+    margin-left: 500px;
+}
+.mmm{
+    color: blue;
+}
+.title{
+    display: flex;
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+.inp{
+    width: 250px;
+    height: 50px;
+    margin-left: -100px;
+    border: none;
+    margin-top: -20px;
+}
+.child1{
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid blue;
+    margin-top: 10px;
+}
+.child2{
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid blue;
+    margin-top: 10px;
+}
+.child3{
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid blue;
+    margin-top: 10px;
+}
+.child4{
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid blue;
+    margin-top: 10px;
+}
+.child5{
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+    border: 1px solid blue;
+    margin-top: 10px;
+}
+#outputs{
+    margin-top: 100px;
+    margin-left: -50px;
+}
+.second{
+    margin-top: 230px;
+    display: flex;
+    margin-left: -100px;
+}
+.bbbbb{
+    margin-left: -130px;
+    margin-top: 10px;
+}
+.Date{
+    font-size: 20px;
+    color: blue;
+}
+#nnnnn{
+    border-radius: 10px;
+    border: 2px solid blue;
+    width: 80px;
+}
+#nn{
+    border-radius: 10px;
+    border: 2px solid blue;
+    width: 50px;
+}
+.butn{
+    width: 300px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: blue;
+    margin-top: 20px;
+    margin-left: 15px;
+    border: none;
+}
+.imgg{
+    width: 400px;
+    height: 300px;
+    mix-blend-mode: multiply;
+    margin-top: 50px;
+}
+.butn:hover{
+    background-color: black;
+    color: white;
+}
+.butn:active{
+    background-color: red;
+}
+.imgg2{
+    float: right;
+    width: 450px;
+    height: 400px;
+    mix-blend-mode: multiply;
+}
